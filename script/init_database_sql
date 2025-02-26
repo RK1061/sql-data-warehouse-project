@@ -1,0 +1,17 @@
+---Create Database and Schemas
+
+USE PROJECT;
+
+-- CREATE THE "Datawarehouse" database
+CREATE DATABASE Datawarehouse;
+
+-- select database
+USE Datawarehouse;
+GO
+
+-- Create SCHEMA
+CREATE SCHEMA bronze;
+Go
+CREATE SCHEMA Silver;
+Go
+CREATE SCHEMA gold;
