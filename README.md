@@ -2,9 +2,10 @@
 
 
 
-Project Requirements
+# Project Requirements
+
 Budling data warehouse (Data Engineering )
-developed modern data warehouse  using SQL server to consolidate sale data, enabling analytical reporting and information 
+developed modern data warehouse  using SQL server to consolidate sale data, enabling analytical reporting and information
 
 
 ### Specification
