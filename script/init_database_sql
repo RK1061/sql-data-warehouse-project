@@ -2,11 +2,11 @@
 
 USE PROJECT;
 
--- CREATE THE "Datawarehouse" database
-CREATE DATABASE Datawarehouse;
+-- CREATE THE "dataeng" database
+CREATE DATABASE dataeng;
 
 -- select database
-USE Datawarehouse;
+USE dataeng;
 GO
 
 -- Create SCHEMA
